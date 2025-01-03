@@ -1,6 +1,6 @@
-<img src="https://cdn.discordapp.com/attachments/1159125500531331162/1161005537660518400/capacodebuilding2.gif?ex=6778d36a&is=677781ea&hm=4e7f3f3cfbcaafbce2e82dc146671e480dfeabc5ea84bb6baeff6a50e5c917fc&" align="left" width="200" height="100" >
+<img src="https://cdn.discordapp.com/attachments/1159125500531331162/1161005537660518400/capacodebuilding2.gif?ex=6778d36a&is=677781ea&hm=4e7f3f3cfbcaafbce2e82dc146671e480dfeabc5ea84bb6baeff6a50e5c917fc&" align="left" width="500" height="200" >
 
-# I dont have a problem.
+
 
 ##                                 **Who Am I?**
 
