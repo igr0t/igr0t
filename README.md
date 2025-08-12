@@ -8,10 +8,9 @@
 
 ## **💻 Skills**
 
-- **Languages:** Bash , Python , C++ And Lua
+- **Languages:** Bash , C , C++ And Lua
 - **Operating Systems:** Linux And Windows
-- **Web Development:** JS
-- **Other:** Reverse Engineering And Game Hacking
+- **Other:** Reverse Engineering , Game Hacking And Web Hacking
 
 ## **📬 Contact**
 
@@ -20,7 +19,7 @@
 
 <h3>Skills</h3>
 
-![Skills](https://skillicons.dev/icons?i=bash,python,cpp,c,lua,php)
+![Skills](https://skillicons.dev/icons?i=bash,cpp,c,lua,php)
 
 
 > "Our code is our weapon. Hack the order, free the information!" 🌐
