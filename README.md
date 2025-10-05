@@ -4,13 +4,13 @@
 
 ##                                 **Who Am I?**
 
-👤 *igr0t*: Developer, Hacking Student , Reverse Enginner.**
+👤 *my name is igr0t*: *I am currently studying and have an intermediate level in low-level languages ​​(Assembly), reverse engineering, web hacking, C++, Game Hacking.*
 
 ## **💻 Skills**
 
-- **Languages:** Bash , C , C++ And Lua
+- **Languages:** Bash , C , C++
 - **Operating Systems:** Linux And Windows
-- **Other:** Reverse Engineering , Game Hacking And Web Hacking
+- **Other:** I have no peace of mind.
 
 ## **📬 Contact**
 
