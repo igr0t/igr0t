@@ -4,7 +4,7 @@
 
 ##                                 **Who Am I?**
 
-👤 *my name is igr0t*: *I am currently studying and have an intermediate level in low-level languages ​​(Assembly), reverse engineering, web hacking, C++, Game Hacking.*
+👤 *my name is igr0t*: *I am currently studying and have an intermediate level in low-level languages ​​(Assembly), reverse engineering including malware analysis , web hacking, C++, Game Hacking.*
 
 ## **💻 Skills**
 
