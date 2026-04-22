@@ -8,7 +8,7 @@
 
 ## **💻 Skills**
 
-- **Languages:** Bash , C , C++
+- **Languages:** C/C++ , Bash Scripting, PowerShell
 - **Operating Systems:** Linux And Windows
 - **Other:** I have no peace of mind.
 
